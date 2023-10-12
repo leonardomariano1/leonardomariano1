@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**leonardomariano1/leonardomariano1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="">
+<a href="https://github.com/leonardomariano1">
+<img height="145"
 
-Here are some ideas to get you started:
+src="https://github-readme-stats-sigma-five.vercel.app/api?userna-
+me=viniciusvianavieirauff&count_private=true&include_all_commit-
+s=true&show_icons=true&theme=dracula&hide_border=false&show_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+owner=true"/>
+<img height="145"
+src="https://github-readme-stats-sigma-five.vercel.app/api/
+
+top-langs/?username=viniciusvianavieirauff&theme=dracula&hide_bor-
+der=false&&layout=compact"/>
+
+</a>
+</div>
